@@ -1,2 +1,3 @@
-# Config Translation Error
-# Could not find stored inference data.  Please run a build and try again.
+{
+  "message" : "Permission denied"
+}
